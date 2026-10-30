@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.usuario {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+}
